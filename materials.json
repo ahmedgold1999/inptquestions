@@ -1,0 +1,125 @@
+{
+  "lastUpdated": "2025-01-15",
+  "universities": [
+    {
+      "id": "baghdad",
+      "name": "جامعة بغداد",
+      "logo": "https://example.com/baghdad-logo.png",
+      "colleges": [
+        {
+          "id": "engineering",
+          "name": "كلية الهندسة",
+          "departments": [
+            {
+              "id": "civil",
+              "name": "قسم الهندسة المدنية",
+              "programs": [
+                {
+                  "type": "bachelor",
+                  "name": "بكالوريوس الهندسة المدنية",
+                  "examDate": "2025-06-15",
+                  "applicationDeadline": "2025-05-30",
+                  "detailsUrl": "https://example.com/civil-bachelor.pdf",
+                  "description": "مدة الدراسة 4 سنوات، القبول حسب المعدل"
+                },
+                {
+                  "type": "master",
+                  "name": "ماجستير الهندسة المدنية",
+                  "examDate": "2025-07-20",
+                  "applicationDeadline": "2025-06-30",
+                  "detailsUrl": "https://example.com/civil-master.pdf",
+                  "description": "تخصصات: إنشاءات، تربة، موارد مائية"
+                },
+                {
+                  "type": "phd",
+                  "name": "دكتوراه الهندسة المدنية",
+                  "examDate": "2025-08-10",
+                  "applicationDeadline": "2025-07-15",
+                  "detailsUrl": "https://example.com/civil-phd.pdf",
+                  "description": "مدة الدراسة 3 سنوات، تتطلب رسالة بحثية"
+                }
+              ]
+            },
+            {
+              "id": "electrical",
+              "name": "قسم الهندسة الكهربائية",
+              "programs": [
+                {
+                  "type": "bachelor",
+                  "name": "بكالوريوس الهندسة الكهربائية",
+                  "examDate": "2025-06-18",
+                  "applicationDeadline": "2025-06-05",
+                  "detailsUrl": "https://example.com/electrical-bachelor.pdf",
+                  "description": "تخصصات: قدرة، اتصالات، حاسوب"
+                },
+                {
+                  "type": "master",
+                  "name": "ماجستير الهندسة الكهربائية",
+                  "examDate": "2025-07-25",
+                  "applicationDeadline": "2025-07-05",
+                  "detailsUrl": "https://example.com/electrical-master.pdf",
+                  "description": "تخصصات دقيقة في أنظمة القدرة والتحكم"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "كلية العلوم",
+          "departments": [
+            {
+              "id": "physics",
+              "name": "قسم الفيزياء",
+              "programs": [
+                {
+                  "type": "bachelor",
+                  "name": "بكالوريوس الفيزياء",
+                  "examDate": "2025-06-20",
+                  "applicationDeadline": "2025-06-10",
+                  "detailsUrl": "https://example.com/physics-bachelor.pdf",
+                  "description": "تطبيقات فيزيائية، فيزياء طبية"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mustansiriya",
+      "name": "الجامعة المستنصرية",
+      "logo": "https://example.com/mustansiriya-logo.png",
+      "colleges": [
+        {
+          "id": "medicine",
+          "name": "كلية الطب",
+          "departments": [
+            {
+              "id": "general",
+              "name": "الطب العام",
+              "programs": [
+                {
+                  "type": "bachelor",
+                  "name": "بكالوريوس الطب والجراحة",
+                  "examDate": "2025-06-10",
+                  "applicationDeadline": "2025-05-25",
+                  "detailsUrl": "https://example.com/medicine.pdf",
+                  "description": "مدة الدراسة 6 سنوات + سنة امتياز"
+                },
+                {
+                  "type": "master",
+                  "name": "ماجستير الطب الباطني",
+                  "examDate": "2025-07-15",
+                  "applicationDeadline": "2025-06-20",
+                  "detailsUrl": "https://example.com/internal-medicine.pdf",
+                  "description": "تخصص دقيق في الأمراض الباطنية"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
